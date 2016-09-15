@@ -22,4 +22,4 @@ A basic pong game using HTML5 Canvas.
 * ▲ : up
 * ▼: down
 
-<img src="http://imgur.com/a/Fif8n.png">
+<img src="http://i.imgur.com/RznmUxP.png">
